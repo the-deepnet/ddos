@@ -68,7 +68,7 @@
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/releases)
+You can download from [GitHub Releases](https://github.com/the-deepnet/ddos/releases)
 
 ### Getting Started
 
@@ -84,9 +84,9 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 
 ## Installation :
 
-`git clone https://github.com/MHProDev/MHDDoS.git`
+`git clone https://github.com/the-deepnet/ddos.git`
 
-`cd MHDDoS`
+`cd ddos`
 
 `pip3 install -r requirements.txt`
 
@@ -94,9 +94,9 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 
 #### > Run :
 
-`python3 start.py`
+`python3 ddos`
 
-`python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100`
+`python3 ddos bypass https://example.com 5 1000 socks5.txt 100 100`
 
 ### <<< If you copy , Then Give me The Credits >>>
 
