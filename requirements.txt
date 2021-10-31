@@ -1,0 +1,6 @@
+requests
+pysocks
+socks
+cfscrape
+icmplib
+scapy
