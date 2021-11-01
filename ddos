@@ -1531,7 +1531,7 @@ def usgeaseets():
 
 def usge():
     usgeaseets()
-    print('* Coded By DeepNet For Better Stresser')
+    print('* Coded By The-DeepNet For Better Stresser')
     print('python3 {} <method> <url> <socks_type5.4.1> <threads> <proxylist> <multiple> <timer>\n'.format(sys.argv[0]))
     print(' > Methods:')
     print(' - L3')
