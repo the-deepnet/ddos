@@ -66,10 +66,6 @@
 
 #### Like the project? Leave a ? star on the repository!
 
-## Downloads
-
-You can download from [GitHub Releases](https://github.com/the-deepnet/ddos/releases)
-
 ### Getting Started
 
 **Requirements**
