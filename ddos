@@ -11,7 +11,7 @@ methodsl = l7 + l4 + l3 + to + ot
 
 
 def spoofer():
-    addr = [192, 168, 0, 1]
+    addr = [127, 0, 0, 1]
     d = '.'
     addr[0] = str(random.randrange(11, 197))
     addr[1] = str(random.randrange(0, 255))
